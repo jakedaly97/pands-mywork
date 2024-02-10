@@ -1,4 +1,4 @@
-# lab3.6.extra.py
+# lab3.1.randomGeneratorextra.py
 # Author: Jake Daly
 # Trying to fix program that causes an error when its ran
 

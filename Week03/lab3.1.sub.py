@@ -1,4 +1,4 @@
-# lab3.2.sub.py
+# lab3.1.sub.py
 # Author: Jake Daly
 # program that read two numbers and subtracts the first one by the second one
 

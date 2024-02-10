@@ -1,4 +1,4 @@
-# lab3.5.randomfruit2.py
+# lab3.1.randomfruit2.py
 # Author: Jake Daly
 # This program prints out random fruit
 

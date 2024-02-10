@@ -1,4 +1,4 @@
-# lab3.3.div.py
+# lab3.1.div.py
 # Author: Jake Dal
 # Program that reads two numbers and divides the first by the second number
 

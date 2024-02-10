@@ -1,4 +1,4 @@
-# lab3.4.extra.py
+# lab3.1.extra.py
 # Author: Jake Daly
 # trying to modify the program lab3.4.randomGenerator.py so that the user inputs the range of number generated
 
